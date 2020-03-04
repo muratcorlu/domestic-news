@@ -8,12 +8,18 @@ In this project we'll try to collect popular news websites of every countries in
 
 * [Germany 🇩🇪](#germany)
 * [Italy 🇮🇹](#italy)
+* [France 🇫🇷](#france)
 * [Netherlands 🇳🇱](#netherlands)
+* [Spain 🇪🇸](#spain)
 * [Turkey 🇹🇷](#turkey)
 
 ### Germany
 
 * [Der Spiegel](https://www.spiegel.de)
+
+### France
+
+* [Le Monde](https://www.lemonde.fr)
 
 ### Italy
 
@@ -22,6 +28,10 @@ In this project we'll try to collect popular news websites of every countries in
 ### Netherlands
 
 * [NOS](https://nos.nl)
+
+### Spain
+
+* [El Mundo](https://www.elmundo.es)
 
 ### Turkey
 
