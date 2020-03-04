@@ -31,3 +31,20 @@ In this project we'll try to collect popular news websites of every countries in
 * [Sabah](https://www.sabah.com.tr)
 * [Sozcu](https://www.sozcu.com.tr)
 * [T24](https://www.t24.com.tr)
+
+## Contribution
+
+You are very welcome for adding new sources to the list. Here are some rules:
+
+1. Website should be in local language
+2. Website should be well-known, serious news source. Intention is trying to understand how community in that country read the news. So we are not interested in personal blogs or company sites.
+
+### How to contribute
+
+1. Fork the repository.
+2. Edit README.md file.
+3. Add the country if it's not added yet. Use alphabetical order.
+4. Add the news website in alphabetical order.
+5. Create a Pull-Request.
+
+Thansk in advance!
