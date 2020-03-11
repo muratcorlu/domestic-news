@@ -6,14 +6,25 @@ In this project we'll try to collect popular news websites of every countries in
 
 ## List of countries
 
+* [Brazil 🇧🇷](#brazil)
+* [Finland 🇫🇮](#finland)
 * [Germany 🇩🇪](#germany)
 * [Greece 🇬🇷](#greece)
 * [Italy 🇮🇹](#italy)
 * [France 🇫🇷](#france)
 * [Netherlands 🇳🇱](#netherlands)
 * [Romania 🇷🇴](#romania)
+* [Russia 🇷🇺](#russia)
 * [Spain 🇪🇸](#spain)
 * [Turkey 🇹🇷](#turkey)
+
+### Brazil
+
+* [UOL](https://www.uol.com.br)
+
+### Finland
+
+* [YLE](https://yle.fi)
 
 ### Germany
 
@@ -42,6 +53,10 @@ In this project we'll try to collect popular news websites of every countries in
 ### Romania
 
 * [Adevarul](https://adevarul.ro)
+
+### Russia
+
+* [Rambler](https://news.rambler.ru)
 
 ### Spain
 
