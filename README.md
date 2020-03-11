@@ -23,7 +23,7 @@ In this project we'll try to collect popular news websites of every countries in
 
 ### Italy
 
-* [Corriere Della Sera](https://www.corriere.it)
+* [la Repubblica](https://www.repubblica.it)
 
 ### Netherlands
 
