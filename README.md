@@ -27,6 +27,8 @@ In this project we'll try to collect popular news websites of every countries in
 
 ### Netherlands
 
+* [AD](https://www.ad.nl)
+* [De Telegraaf](https://www.telegraaf.nl)
 * [NOS](https://nos.nl)
 
 ### Spain
