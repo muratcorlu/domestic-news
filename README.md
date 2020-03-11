@@ -11,6 +11,7 @@ In this project we'll try to collect popular news websites of every countries in
 * [Italy 🇮🇹](#italy)
 * [France 🇫🇷](#france)
 * [Netherlands 🇳🇱](#netherlands)
+* [Romania 🇷🇴](#romania)
 * [Spain 🇪🇸](#spain)
 * [Turkey 🇹🇷](#turkey)
 
@@ -37,6 +38,10 @@ In this project we'll try to collect popular news websites of every countries in
 * [AD](https://www.ad.nl)
 * [De Telegraaf](https://www.telegraaf.nl)
 * [NOS](https://nos.nl)
+
+### Romania
+
+* [Adevarul](https://adevarul.ro)
 
 ### Spain
 
