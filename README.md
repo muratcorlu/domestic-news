@@ -7,6 +7,7 @@ In this project we'll try to collect popular news websites of every countries in
 ## List of countries
 
 * [Germany 🇩🇪](#germany)
+* [Greece 🇬🇷](#greece)
 * [Italy 🇮🇹](#italy)
 * [France 🇫🇷](#france)
 * [Netherlands 🇳🇱](#netherlands)
@@ -16,6 +17,12 @@ In this project we'll try to collect popular news websites of every countries in
 ### Germany
 
 * [Der Spiegel](https://www.spiegel.de)
+
+### Greece
+
+* [Iefimerida](https://www.iefimerida.gr)
+* [Protothema](https://www.protothema.gr)
+* [News Bomb](https://www.newsbomb.gr)
 
 ### France
 
