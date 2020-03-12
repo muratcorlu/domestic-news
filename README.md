@@ -16,6 +16,8 @@ In this project we'll try to collect popular news websites of every countries in
 * [Romania 🇷🇴](#romania)
 * [Russia 🇷🇺](#russia)
 * [Spain 🇪🇸](#spain)
+* [United Kingdom 🇬🇧](#united-kingdom)
+* [United States 🇺🇸](#united-states)
 * [Turkey 🇹🇷](#turkey)
 
 ### Brazil
@@ -61,6 +63,15 @@ In this project we'll try to collect popular news websites of every countries in
 ### Spain
 
 * [El Mundo](https://www.elmundo.es)
+
+### United Kingdom
+
+* [BBC](https://bbc.co.uk)
+* [Daily Mail](https://dailymail.co.uk)
+
+### United States
+
+* [CNN](https://www.cnn.com)
 
 ### Turkey
 
